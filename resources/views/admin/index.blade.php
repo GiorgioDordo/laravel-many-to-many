@@ -6,7 +6,7 @@
 @section("content")
 <main class="container">
     <div class="row d-flex justify-content-center">
-        <div><h1 class="text-center">PROJECTS</h1></div>
+        <div><h1 class="text-center">MY PROJECTS</h1></div>
         @foreach ($projects as $index => $project)
         <div class="col-3 m-3 p-3 card">
             <div class="card-body">
